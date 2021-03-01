@@ -2,11 +2,11 @@
 
 Description of what this PR does. What have you added or changed, and why?  If it fixes a bug or resolves a feature request, be sure to link to that issue.
 
-**YOUR TEXT HERE**
+**REPLACE THIS WITH YOUR TEXT HERE**
 
 ## Review Checks
 
-Please check if the PR fulfills these requirements:
+Please check if the PR fulfils these requirements:
 
 _Put an `x` in the boxes that apply, Remove any lines that do not apply_
 - [ ] 📝 The commit message is clear and descriptive
@@ -19,7 +19,7 @@ _Put an `x` in the boxes that apply, Remove any lines that do not apply_
 
 Add links to any pull requests or documentation related to this pull request.
 
-**YOUR [LINK](http://example.com/) HERE**
+**REPLACE THIS WITH YOUR [LINK](http://example.com/) HERE OR REMOVE ME**
 
 
 **Does this PR introduce a breaking change?** (What changes might users need to make in their application due to this PR?)
@@ -31,13 +31,14 @@ Are there any other security or data concerns to be aware of?
 
 Please discuss the security implications/considerations relevant to the proposed change. 
 This may include...
+* changes to permission scope for infrastructure resources or within the application (**i.e. AWS IAM!**)
 * security-relevant design decisions
 * concerns 
 * important discussions
 * implementation-specific guidance and pitfalls
 * an outline of threats and risks and how they are being addressed.
 
-**YOUR TEXT HERE**
+**REPLACE THIS WITH YOUR TEXT HERE OR N/A**
 
 ## Types of change
 
@@ -49,17 +50,17 @@ _Put an `x` in the boxes that apply_
 - [ ] 💥 Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] 🛠 Adding or updating configuration files, development scripts etc.
 - [ ] ♻️ Refactoring (no functional changes, no api changes)
-- [ ] 🧹 Chore (removing redunant files, fixing typos etc.)
+- [ ] 🧹 Chore (removing redundant files, fixing typos etc.)
 - [ ] 📄 Documentation Update 
 - [ ] ❓ Other (if none of the other choices apply)
 
 If "Other" please specify
 
-**YOUR TEXT HERE**
+**REPLACE THIS WITH YOUR TEXT HERE OR N/A**
 
 # Testing
 
-Please include steps that the reviewer can follow inorder to test the changes
+Please include steps that the reviewer can follow in order to test the changes
 
 1. 
 2. 
@@ -68,4 +69,4 @@ Please include steps that the reviewer can follow inorder to test the changes
 # Other information
 
 Please add any other information that would be useful for the reviewer.
-**<YOUR TEXT HERE>**
+**REPLACE THIS WITH YOUR TEXT HERE OR N/A**
